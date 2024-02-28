@@ -91,6 +91,7 @@ The credit card APIs are per the exercise specification at follows:
 The following cards will produce negative responses:
 
 4444 3333 2222 1111 - Card has been declined.
+
 5555 4444 3333 1111 - Fraud detected.
 
 All other test generated cards will return a successful charge/credit outcome.
