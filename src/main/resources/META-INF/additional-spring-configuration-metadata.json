@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "creditcardapp.app.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'creditcardapp.app.jwtSecret'"
+  },
+  {
+    "name": "payment.gateway.url",
+    "type": "java.lang.String",
+    "description": "A description for 'payment.gateway.url'"
+  },
+  {
+    "name": "creditcardapp.app.jwtExpirationMs",
+    "type": "java.lang.String",
+    "description": "A description for 'creditcardapp.app.jwtExpirationMs'"
+  }
+]}
