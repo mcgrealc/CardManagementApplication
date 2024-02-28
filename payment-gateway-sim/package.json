@@ -1,0 +1,11 @@
+{
+  "name": "payment-gateway-sim",
+  "version": "1.0.0",
+  "description": "Payment Gateway Simulator",
+  "author": "Christopher McGreal",
+  "license": "Christopher McGreal",
+  "dependencies": {
+      "express": "^4.18.2",
+      "cors": "^2.8.5"
+  }
+}
