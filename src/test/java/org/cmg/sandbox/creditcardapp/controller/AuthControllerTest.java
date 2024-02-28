@@ -139,8 +139,7 @@ public class AuthControllerTest {
     
     @Test
     @WithMockUser(username=TEST_USERNAME_VALID,roles={"CUSTOMER"})
-    public void givenAuthController_whenPostTo
-    Signin_thenJWTResponseReturned() throws Exception
+    public void givenAuthController_whenPostToSignin_thenJWTResponseReturned() throws Exception
     {
     	
     	LoginRequest loginRequest = new LoginRequest();
